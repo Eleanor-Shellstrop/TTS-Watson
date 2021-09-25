@@ -40,13 +40,15 @@ If you do not have Python, Jupyter Notebook or an IBM Cloud account:
 
 ## Making Changes
 
-1. Change Text
+### Change Text
+   
 You can make changes to the text and run the program again. The audio files will update with the changes. 
 
 Example: 
 Under the `2. Convert a String` synthesize function, you can change the `'Oh hi, Mark'` to any other string. Run the file, reopen your hello_world.wav audio file and listen to the new speech. 
 
-2. Change Voice
+### Change Voice
+   
 Also, you may change the voice to a different one. Select from the [supported languages and voices](https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-voices) list from IBM. 
 
 Example:
