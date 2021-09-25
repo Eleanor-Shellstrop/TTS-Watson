@@ -20,7 +20,7 @@ If you do not have Python, Jupyter Notebook or an IBM Cloud account:
 
 ### Running the Program 
 1. Clone the repository
-2. Retrieve your API key and URL for the variables in "Authenticate."
+2. On the IBM website, retrieve your API key and URL for the variables in "Authenticate."
     * Find the Text to Speech product and click "Create."
     * Click the "Manage" tab.
     * Copy and paste your API key and URL values in the variables, in single or double quotes. 
