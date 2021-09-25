@@ -40,6 +40,8 @@ If you do not have Python, Jupyter Notebook or an IBM Cloud account:
 
 ## Making Changes
 
+Note: Sometimes errors occur when editting linked files (like audio) within the session. You may need to exit out of your Notebook session and close your editor, re-open and run the code cell you changed again.
+
 ### Change Text
    
 You can make changes to the text and run the program again. The audio files will update with the changes. 
@@ -53,3 +55,4 @@ Also, you may change the voice to a different one. Select from the [supported la
 
 Example:
 Where we have `voice='en-US_AllisonV3Voice'` under `2. Convert a String`, you can change to another English speaker like `'en-US_MichaelV3Voice'`. Run the program again to overwrite your audio files. 
+
