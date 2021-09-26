@@ -5,6 +5,10 @@ I followed along a tutorial by Nicholas Renotte on YouTube [found here](https://
 
 Note: I had to turn off my VPN to navigate and create an account on IBM's website. 
 
+## IBM Description
+
+The Text to Speech service converts written text to natural-sounding speech. The service streams the synthesized audio back with minimal delay. The audio uses appropriate cadence and intonation for its language and dialect to provide voices that are smooth and natural. The service can be used in applications such as voice-automated chatbots, as well as a variety of voice-driven and screenless applications, such as tools for the disabled or visually impaired, video narration and voice over, and educational and home-automation solutions. [source](https://cloud.ibm.com/catalog/services/text-to-speech#about)  
+
 ## Instructions
 
 ### Download libraries and make an IBM Cloud account
